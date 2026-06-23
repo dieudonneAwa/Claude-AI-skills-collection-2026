@@ -224,6 +224,7 @@ Official Skills are created by Anthropic and auto-invoked when needed. You can a
 | **Domain Name Brainstormer** | Generates domain ideas and checks availability | [Source](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/domain-name-brainstormer) |
 | **Internal Comms** | Writes internal communications using company formats | [Source](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/internal-comms) |
 | **Lead Research Assistant** | Identifies and qualifies leads with outreach strategies | [Source](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/lead-research-assistant) |
+| **mailtrap-skills** | Agent skills for Mailtrap covering email sending via API/SMTP, sandbox testing, domain setup (SPF/DKIM/DMARC), and contacts management | [Source](https://github.com/mailtrap/mailtrap-skills) |
 
 ---
 ## 📈 Productivity & Organization
