@@ -274,12 +274,10 @@ Official Skills are created by Anthropic and auto-invoked when relevant. You can
 
 | Name | Description | Link |
 |------|-------------|------|
-| **Brand Guidelines** | Applies official brand colors and typography | [Source](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/brand-guidelines) |
-| **Competitive Ads Extractor** | Extracts and analyzes competitors' ads | [Source](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/competitive-ads-extractor) |
-| **Domain Name Brainstormer** | Generates domain ideas and checks availability | [Source](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/domain-name-brainstormer) |
-| **Internal Comms** | Writes internal communications using company formats | [Source](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/internal-comms) |
-| **Lead Research Assistant** | Identifies and qualifies leads with outreach strategies | [Source](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/lead-research-assistant) |
-| **mailtrap-skills** | Agent skills for Mailtrap covering email sending via API/SMTP, sandbox testing, domain setup (SPF/DKIM/DMARC), and contacts management | [Source](https://github.com/mailtrap/mailtrap-skills) |
+| **Competitive Ads Extractor** | Extract and analyze competitors' ads | [Source](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor) |
+| **Domain Name Brainstormer** | Generate domain ideas and check availability | [Source](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/domain-name-brainstormer) |
+| **Lead Research Assistant** | Identify and qualify leads with outreach strategies | [Source](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/lead-research-assistant) |
+| **mailtrap-skills** | Agent skills for Mailtrap: email sending via API/SMTP, domain setup, and contacts management | [Source](https://github.com/mailtrap/mailtrap-skills) |
 
 ---
 ## 📈 Productivity & Organization
